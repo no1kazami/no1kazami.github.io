@@ -33,9 +33,10 @@ github_username:  no1kazami
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  C/C++, Unreal Engine 기반의 게임 클라이언트 개발자 최경희입니다.<br/>
-  리니지, 블레이드, 팡야, 기간틱엑스, 미소스등 여러 회사에서 여러 프로젝트 경험을 쌓았습니다.<br/>
-  가능하면 프로젝트의 핵심 기능 구현에 참여하려고 노력해왔고 회사 업무와는 별개로 지금까지 **게임 1종, 앱 3종**등 개인 프로젝트를 꾸준히 진행하고 있습니다.<br/>
+  새로운 도전을 좋아하는 게임 클라이언트 개발자 최경희입니다.<br/>
+  여러 회사에서 신규 개발 뿐만 아니라 리니지, 블레이드, 팡야, 기간틱엑스, 미소스등 여러 라이브 프로젝트 경험을 쌓았습니다.<br/>
+  가능하면 프로젝트의 핵심 기능 구현에 참여하려고 노력해왔고 많은 경험을 쌓았습니다.<br/> 
+  또한 자기개발을 위해 회사 업무와는 별개로 게임, 어플등 개인 프로젝트를 꾸준히 진행하고 있습니다.<br/>
   현재는 엔씨소프트에서 글로벌 IP와 협업한 MMORPG를 개발 중입니다.<br/>
 
 content:
@@ -45,15 +46,55 @@ content:
       - layout: left
         title: 엔씨소프트
         link: ncsoft.com
-        # link_text: boringcompany.com
         sub_title: 게임 클라이언트 프로그래머
         caption: 2019.04 ~ 재직 중
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          리니지 리마스터, Skyline
         description: | # this will include new lines to allow paragraphs
             * 카메라 시스템
             * 전투, 타겟 시스템
-            * UI & 컨텐츠 작업
+            * UI & 컨텐츠
+            * 라이브 서비스
+            
+    content:
+      - layout: left
+        title: 액션스퀘어
+        link: action2quare.com
+        sub_title: 게임 클라이언트 프로그래머
+        caption: 2015.02 ~ 2019.03
+        quote: >
+          블레이드, 기간틱엑스
+        description: | # this will include new lines to allow paragraphs
+            * 배경 최적화
+            * 퍼포먼스 향상
+            * 전투 시스템
+            * UI & 컨텐츠
+            * 라이브 서비스
+            
+    content:
+      - layout: left
+        title: 엔트리브 소프트
+        sub_title: 게임 클라이언트 프로그래머
+        caption: 2013.07 ~ 2015.02
+        quote: >
+          팡야
+        description: | # this will include new lines to allow paragraphs
+            * Shader
+            * UI & 컨텐츠
+            * 라이브 서비스
+            
+    content:
+      - layout: left
+        title: T3 엔터테인먼트
+        link: t3.co.kr
+        sub_title: 게임 클라이언트 프로그래머
+        caption: 2010.09 ~ 2013.07
+        quote: >
+          미소스, Project S
+        description: | # this will include new lines to allow paragraphs
+            * 전투 시스템
+            * UI & 컨텐츠
+            * 라이브 서비스
 
   - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
@@ -64,7 +105,8 @@ content:
         quote: >
           2021.07 ~ 현재
         description: | # this will include new lines to allow paragraphs
-            게임에 중요한 카메라 관련 시스템을 개발 하고 있습니다. 또한 각종 전투, 타겟 시스템등 관련 작업을 진행하고 있습니다.
+            게임에 중요한 카메라 관련 시스템을 개발 하고 있습니다.
+            또한 각종 전투, 타겟 시스템등 관련 작업을 진행하고 있습니다.
             * 카메라 통합 시스템 구현 : 파편화된 카메라 기능들을 통합하고 관리할 수 있는 데이터 구조를 제공하여 관련 작업의 능률을 올렸습니다.
             * 카메라의 여러가지 개별 기능 구현(동적 카메라, 카메라 정렬등)
             * 특정 개체 및 파츠를 타겟팅 할 수 있는 타겟 시스템 구현
@@ -77,6 +119,7 @@ content:
         quote: >
           2019.04 ~ 2021.06
         description: | # this will include new lines to allow paragraphs
+            클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
             * 보이스 채팅 : CEF(Chromium Embedded Framework)를 사용하여 구현
             * 스트리밍 서비스 : 게임 클라이언트와 스트리밍 클라이언트의 상태 동기화 구현
             * 컨텐츠 & UI 추가 및 개선 작업

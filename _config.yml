@@ -34,9 +34,9 @@ github_username:  no1kazami
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   새로운 도전을 좋아하는 게임 클라이언트 개발자 최경희입니다.<br/>
-  여러 회사에서 신규 개발 뿐만 아니라 리니지, 블레이드, 팡야, 기간틱엑스, 미소스등 여러 라이브 프로젝트 경험을 쌓았습니다.<br/>
+  여러 회사에서 신규 개발 뿐만 아니라 여러 라이브 프로젝트 경험을 쌓았습니다.<br/>
   가능하면 프로젝트의 핵심 기능 구현에 참여하려고 노력해왔고 많은 경험을 쌓았습니다.<br/> 
-  또한 자기개발을 위해 회사 업무와는 별개로 게임, 어플등 개인 프로젝트를 꾸준히 진행하고 있습니다.<br/>
+  또한 자기개발을 위해 회사 업무와는 별개로 게임, 어플 등 개인 프로젝트를 꾸준히 진행하고 있습니다.<br/>
   현재는 엔씨소프트에서 글로벌 IP와 협업한 MMORPG를 개발 중입니다.<br/>
 
 content:
@@ -149,7 +149,7 @@ content:
           2013.07 ~ 2015.02
         description: | # this will include new lines to allow paragraphs
             PC 골프 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
-            * shader : Fake HDR, RimLight, DOF, Fxaa등을 구현하여 10년된 게임의 그래픽 퀄리티를 업그레이드 하였습니다. 
+            * shader : Fake HDR, RimLight, DOF, Fxaa등을 구현하여 10년된 게임의 그래픽 퀄리티를 업그레이드
             * 컨텐츠 & UI 추가 및 개선 작업
             * 해외 서비스 지원 작업
             

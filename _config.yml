@@ -99,6 +99,7 @@ content:
         quote: >
           2021.07 ~ 현재
         description: | # this will include new lines to allow paragraphs
+            UnrealEngine5로 개발중인 글로벌 IP MMORPG로 초기 개발 단계부터 참여하였습니다.
             게임에 중요한 카메라 관련 시스템을 개발 하고 있습니다.
             또한 각종 전투, 타겟 시스템등 관련 작업을 진행하고 있습니다.
             * 카메라 통합 시스템 구현 : 파편화된 카메라 기능들을 통합하고 관리할 수 있는 데이터 구조를 제공하여 관련 작업의 능률을 올렸습니다.
@@ -117,7 +118,61 @@ content:
             * 보이스 채팅 : CEF(Chromium Embedded Framework)를 사용하여 구현
             * 스트리밍 서비스 : 게임 클라이언트와 스트리밍 클라이언트의 상태 동기화 구현
             * 컨텐츠 & UI 추가 및 개선 작업
-            * 해외 서비스 지원 작업         
+            * 해외 서비스 지원 작업
+            
+      - layout: top-middle
+        title: 기간틱엑스(액션스퀘어)
+        link:
+        quote: >
+          2017.02 ~ 2019.03
+        description: | # this will include new lines to allow paragraphs
+            UnrealEngine4로 개발한 TPS 게임으로 초기 개발 단계부터 참여하였습니다.
+            * 아이템, 인벤토리등 기반 시스템 구현
+            * 배경 최적화 작업 지원
+            * 컨텐츠 & UI 추가 및 개선 작업
+            
+      - layout: top-middle
+        title: 블레이드(액션스퀘어)
+        link:
+        quote: >
+          2015.02 ~ 2017.02
+        description: | # this will include new lines to allow paragraphs
+            UnrealEngine3로 개발한 모바일 액션 RPG 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
+            * 프로파일링을 통해 프레임이 떨어지는 부분을 개선하여 클라이언트 퍼포먼스 향상
+            * 스킬, 버프등 전반적인 전투 시스템 구현
+            * 컨텐츠 & UI 추가 및 개선 작업
+            
+      - layout: top-middle
+        title: 팡야(엔트리브 소프트)
+        link:
+        quote: >
+          2013.07 ~ 2015.02
+        description: | # this will include new lines to allow paragraphs
+            PC 골프 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
+            * shader : Fake HDR, RimLight, DOF, Fxaa등을 구현하여 10년된 게임의 그래픽 퀄리티를 업그레이드 하였습니다. 
+            * 컨텐츠 & UI 추가 및 개선 작업
+            * 해외 서비스 지원 작업
+            
+      - layout: top-middle
+        title: Project S(T3 엔터테인먼트)
+        link:
+        quote: >
+          2011.09 ~ 2013.07
+        description: | # this will include new lines to allow paragraphs
+            AOS장르의 게임으로 초기 개발 단계부터 참여하였습니다.
+            * 스킬, 자동공격, 추적등 전반적인 전투 시스템 구현
+            * 컨텐츠 & UI 추가 및 개선 작업
+            
+      - layout: top-middle
+        title: 미소스(T3 엔터테인먼트)
+        link:
+        quote: >
+          2010.09 ~ 2011.09
+        description: | # this will include new lines to allow paragraphs
+            MORPG 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
+            * 제작, 길드등 두용 시스템 구현 및 기능 개선
+            * 컨텐츠 & UI 추가 및 개선 작업
+            * 해외 서비스 지원 작업
 
   - title: 기술 스택
     layout: text

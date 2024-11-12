@@ -39,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
   현재는 엔씨소프트에서 글로벌 IP와 협업한 MMORPG를 개발 중입니다.<br/>
 
 content:
- - title: 경력 # Title for the section
+  - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left

@@ -45,7 +45,7 @@ content:
     content:
       - layout: left
         title: 엔씨소프트
-        link: ncsoft.com
+        link: https://www.ncsoft.com
         sub_title: 게임 클라이언트 프로그래머
         caption: 2019.04 ~ 재직 중
         quote: >
@@ -57,7 +57,7 @@ content:
             * 라이브 서비스
       - layout: left
         title: 액션스퀘어
-        link: action2quare.com
+        link: https://www.action2quare.com
         sub_title: 게임 클라이언트 프로그래머
         caption: 2015.02 ~ 2019.03
         quote: >
@@ -80,7 +80,7 @@ content:
             * 라이브 서비스
       - layout: left
         title: T3 엔터테인먼트
-        link: t3.co.kr
+        link: https://www.t3.co.kr/
         sub_title: 게임 클라이언트 프로그래머
         caption: 2010.09 ~ 2013.07
         quote: >

@@ -49,48 +49,42 @@ content:
         sub_title: 게임 클라이언트 프로그래머
         caption: 2019.04 ~ 재직 중
         quote: >
-          리니지 리마스터, Skyline
+          <mark>리니지 리마스터, Skyline</mark> 
         description: | # this will include new lines to allow paragraphs
             * 카메라 시스템
             * 전투, 타겟 시스템
             * UI & 컨텐츠
             * 라이브 서비스
-            
-    content:
       - layout: left
         title: 액션스퀘어
         link: action2quare.com
         sub_title: 게임 클라이언트 프로그래머
         caption: 2015.02 ~ 2019.03
         quote: >
-          블레이드, 기간틱엑스
+          <mark>블레이드, 기간틱엑스</mark> 
         description: | # this will include new lines to allow paragraphs
             * 배경 최적화
             * 퍼포먼스 향상
             * 전투 시스템
             * UI & 컨텐츠
             * 라이브 서비스
-            
-    content:
       - layout: left
         title: 엔트리브 소프트
         sub_title: 게임 클라이언트 프로그래머
         caption: 2013.07 ~ 2015.02
         quote: >
-          팡야
+          <mark>팡야</mark> 
         description: | # this will include new lines to allow paragraphs
             * Shader
             * UI & 컨텐츠
             * 라이브 서비스
-            
-    content:
       - layout: left
         title: T3 엔터테인먼트
         link: t3.co.kr
         sub_title: 게임 클라이언트 프로그래머
         caption: 2010.09 ~ 2013.07
         quote: >
-          미소스, Project S
+          <mark>미소스, Project S</mark> 
         description: | # this will include new lines to allow paragraphs
             * 전투 시스템
             * UI & 컨텐츠

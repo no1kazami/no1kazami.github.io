@@ -40,6 +40,14 @@ about_content: | # this will include new lines to allow paragraphs
   현재는 엔씨소프트에서 글로벌 IP와 협업한 MMORPG를 개발 중입니다.<br/>
 
 content:
+  - title: 기술 스택
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - C/C++
+      - Python
+      - Firebase
+      - Unreal Engine
+      
   - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -174,14 +182,6 @@ content:
             * 제작, 길드 등 두용 시스템 구현 및 기능 개선
             * 컨텐츠 & UI 추가 및 개선 작업
             * 해외 서비스 지원 작업
-
-  - title: 기술 스택
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - C/C++
-      - Python
-      - Firebase
-      - Unreal Engine
 
 # Footer
 footer_show_references: true

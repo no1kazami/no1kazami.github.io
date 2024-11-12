@@ -101,9 +101,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             UnrealEngine5로 개발중인 글로벌 IP MMORPG로 초기 개발 단계부터 참여하였습니다.<br/>
             게임에 중요한 카메라 관련 시스템을 개발 하고 있습니다.<br/>
-            또한 각종 전투, 타겟 시스템등 관련 작업을 진행하고 있습니다.
+            또한 각종 전투, 타겟 시스템 등 관련 작업을 진행하고 있습니다.
             * 카메라 통합 시스템 구현 : 파편화된 카메라 기능들을 통합하고 관리할 수 있는 데이터 구조를 제공하여 관련 작업의 능률을 올렸습니다.
-            * 카메라의 여러가지 개별 기능 구현(동적 카메라, 카메라 정렬등)
+            * 카메라의 여러가지 개별 기능 구현(동적 카메라, 카메라 정렬 등)
             * 특정 개체 및 파츠를 타겟팅 할 수 있는 타겟 시스템 구현
             * 슬링 인디케이터의 예상 궤적 서버 동기화 및 시각화 구현
             * 각 시스템에 필요한 UI 구현
@@ -127,7 +127,7 @@ content:
           2017.02 ~ 2019.03
         description: | # this will include new lines to allow paragraphs
             UnrealEngine4로 개발한 TPS 게임으로 초기 개발 단계부터 참여하였습니다.
-            * 아이템, 인벤토리등 기반 시스템 구현
+            * 아이템, 인벤토리 등 기반 시스템 구현
             * 배경 최적화 작업 지원
             * 컨텐츠 & UI 추가 및 개선 작업
             
@@ -139,7 +139,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             UnrealEngine3로 개발한 모바일 액션 RPG 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
             * 프로파일링을 통해 프레임이 떨어지는 부분을 개선하여 클라이언트 퍼포먼스 향상
-            * 스킬, 버프등 전반적인 전투 시스템 구현
+            * 스킬, 버프 등 전반적인 전투 시스템 구현
             * 컨텐츠 & UI 추가 및 개선 작업
             
       - layout: top-middle
@@ -149,7 +149,7 @@ content:
           2013.07 ~ 2015.02
         description: | # this will include new lines to allow paragraphs
             PC 골프 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
-            * shader : Fake HDR, RimLight, DOF, Fxaa등을 구현하여 10년된 게임의 그래픽 퀄리티를 업그레이드
+            * shader : Fake HDR, RimLight, DOF, Fxaa 등을 구현하여 10년된 게임의 그래픽 퀄리티를 업그레이드
             * 컨텐츠 & UI 추가 및 개선 작업
             * 해외 서비스 지원 작업
             
@@ -160,7 +160,7 @@ content:
           2011.09 ~ 2013.07
         description: | # this will include new lines to allow paragraphs
             AOS장르의 게임으로 초기 개발 단계부터 참여하였습니다.
-            * 스킬, 자동공격, 추적등 전반적인 전투 시스템 구현
+            * 스킬, 자동공격, 추적 등 전반적인 전투 시스템 구현
             * 컨텐츠 & UI 추가 및 개선 작업
             
       - layout: top-middle
@@ -170,7 +170,7 @@ content:
           2010.09 ~ 2011.09
         description: | # this will include new lines to allow paragraphs
             MORPG 게임으로 클라이언트 개발 및 출시 이후 라이브 서비스 유지 작업을 진행하였습니다.
-            * 제작, 길드등 두용 시스템 구현 및 기능 개선
+            * 제작, 길드 등 두용 시스템 구현 및 기능 개선
             * 컨텐츠 & UI 추가 및 개선 작업
             * 해외 서비스 지원 작업
 

@@ -80,7 +80,7 @@ content:
             * 라이브 서비스
       - layout: left
         title: T3 엔터테인먼트
-        link: https://www.t3.co.kr/
+        link: https://www.t3.co.kr
         sub_title: 게임 클라이언트 프로그래머
         caption: 2010.09 ~ 2013.07
         quote: >
@@ -179,6 +179,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - C/C++
       - Python
+      - Firebase
       - Unreal Engine
 
 # Footer
